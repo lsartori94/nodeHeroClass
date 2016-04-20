@@ -1,0 +1,22 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsartori94/nodeHeroClass.git"
+  },
+  "author": "Luca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsartori94/nodeHeroClass/issues"
+  },
+  "homepage": "https://github.com/lsartori94/nodeHeroClass#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
